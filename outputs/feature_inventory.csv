@@ -1,0 +1,44 @@
+column,known_at
+promise_days,checkout
+distance_km,checkout
+log_price,checkout
+freight_total,checkout
+freight_ratio,checkout
+log_weight,checkout
+log_volume,checkout
+n_items,checkout
+n_sellers,checkout
+photos,checkout
+desc_len,checkout
+installments,checkout
+voucher,checkout
+purchase_hour,checkout
+purchase_dow,checkout
+same_state,checkout
+platform_7d_orders,checkout
+seller_30d_orders,checkout
+seller_history_n,checkout
+seller_late_rate,checkout
+route_late_rate,checkout
+state_late_rate,checkout
+recent_late_rate,checkout
+seller_handling_days,checkout
+customer_prior_orders,checkout
+route_mean_days,checkout
+route_recent_days,checkout
+zone_mean_days,checkout
+zone_late_rate,checkout
+expected_slack,checkout
+recent_slack,checkout
+customer_state,checkout
+seller_state,checkout
+payment_type,checkout
+main_category,checkout
+handling_days,carrier handoff
+approval_hours,carrier handoff
+missed_ship_limit,carrier handoff
+days_left_at_handoff,carrier handoff
+delivered_at,after outcome (never a feature)
+delivery_days,after outcome (never a feature)
+review_score,after outcome (never a feature)
+review_creation_date,after outcome (never a feature)
